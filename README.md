@@ -31,3 +31,5 @@
 | **Поиск по ID**    | `findById`            | \(O(1)\)            | Доступ через хеш-индекс.               |
 | **Поиск по полю**  | `findRecords`         | \(O(n)\)            | Линейный перебор всех записей.         |
 | **Редактирование** | `editRecord`          | \(O(1)\)            | Прямой доступ по индексу.              |
+
+![image](https://github.com/user-attachments/assets/ae8bcaac-9dc3-45da-9f84-b64812c3d245)
